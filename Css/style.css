@@ -71,19 +71,18 @@ nav a {
 }
 
 .picture1 {
-  margin-top: 100px;
-  margin-left: 70px;
-  width: 400px;
+  margin-left: 150px;
   height: 401px;
-  position: relative;
-  right: 100px;
+  width: 400px;
+  padding-right: 50px;
 }
 
-.picture1 {
-  margin-left: 250px;
+.h-two {
+  text-align: center;
+  color: brown;
 }
 
-.h2 {
+.h-three {
   text-align: center;
   color: brown;
 }
@@ -101,6 +100,7 @@ nav a {
 .strong1 section {
   padding-right: 50px;
   font-size: 30px;
+  margin-left: 50px;
 }
 
 .paragraph2 {
