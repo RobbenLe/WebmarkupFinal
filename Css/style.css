@@ -45,7 +45,7 @@ nav a {
 }
 
 .nav-item-link {
-  font-weight: 300px;
+  font-weight: 300;
   color: black;
   margin: 0 1rem;
   transition: 1s;
@@ -285,7 +285,7 @@ figure {
   text-decoration: none;
   margin-top: 10px;
   margin-left: 250px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -343,7 +343,7 @@ figure {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -399,7 +399,7 @@ figure {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -453,7 +453,7 @@ figure {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -509,7 +509,7 @@ figure {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -843,7 +843,7 @@ nav li {
   text-decoration: none;
   margin-top: 10px;
   margin-left: 200px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -901,7 +901,7 @@ nav li {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -957,7 +957,7 @@ nav li {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1011,7 +1011,7 @@ nav li {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
   margin-left: 150px;
 }
@@ -1068,7 +1068,7 @@ nav li {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1405,7 +1405,7 @@ nav li {
   text-decoration: none;
   margin-top: 10px;
   margin-left: 220px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1463,7 +1463,7 @@ nav li {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1521,7 +1521,7 @@ nav li {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1575,7 +1575,7 @@ nav li {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1635,7 +1635,7 @@ nav li {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -1978,7 +1978,7 @@ figure16 {
   text-decoration: none;
   margin-top: 10px;
   margin-left: 250px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -2036,7 +2036,7 @@ figure16 {
   color: rgb(54, 54, 139);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -2092,7 +2092,7 @@ figure16 {
   color: rgb(74, 74, 130);
   text-decoration: none;
   margin-top: 10px;
-  font-weight: 200px;
+  font-weight: 200;
   font-size: 20px;
 }
 
@@ -2459,7 +2459,6 @@ footer {
   header {
     height: auto;
     flex-direction: column;
-    position: none;
   }
 
   .logo9 {
