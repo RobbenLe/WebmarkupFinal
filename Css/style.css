@@ -546,7 +546,7 @@ ul li {
 
 @media (max-width: 767px) {
   .title {
-    margin-left: 150px;
+    margin-left: 80px;
     margin-top: 100px;
   }
   .question {
@@ -1106,7 +1106,7 @@ ul li {
 
 @media (max-width: 767px) {
   .title1 {
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 100px;
   }
   .question1 {
@@ -1672,7 +1672,7 @@ ul li {
 
 @media (max-width: 767px) {
   .title2 {
-    margin-left: 150px;
+    margin-left: 80px;
     margin-top: 100px;
   }
   .question2 {
@@ -2130,7 +2130,7 @@ ul li {
 
 @media (max-width: 767px) {
   .title3 {
-    margin-left: 4em;
+    margin-left: 2em;
     margin-top: 100px;
   }
   .question3 {
