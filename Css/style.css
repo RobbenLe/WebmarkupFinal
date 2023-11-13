@@ -71,6 +71,7 @@ nav a {
   font-size: 60px;
   text-align: center;
   margin-top: 20px;
+  text-transform: uppercase;
 }
 
 .picture1 {
@@ -2419,6 +2420,9 @@ legend {
   margin-left: 230px;
 }
 
+#subject {
+  height: 200px;
+}
 /*footer*/
 footer {
   width: 100%;
